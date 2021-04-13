@@ -27,7 +27,7 @@ function printMovies(moviesBack){
 
 
 function buy(clickedMovie){
-    const name = prompt('Qual é o sue nome?')
+    const name = prompt('Qual é o seu nome?')
     const seatNumber = parseInt(prompt('Qual é o número de assentos'))
     //console.log(clickedMovie.getAttribute('id'))
     const movieId="clickedMovie.getAttribute('id')"
